@@ -60,6 +60,28 @@ Next, we want to explore if job location affects salary ranges. The box plot sho
 
 We want to compare the US median to specific states. These are the top 5 states with the most data entries in our data set, which were CA, MA, VA, NY and TX. This could indicate that there are more job opportunities here but it could just be because there are more people in these states and that’s why we have more data on these states. States with fewer data entries may not be a good representation of the average salaries for that state. We can see that all states besides Texas have a median salary higher than the US median.
 
+In addition to doing an analysis on the salaries for each state, we also did one on the salaries for the top 4 cities. Unfortunately, since our sample size is so limited, we did not go outside the top 4 cities.
+Unsurprisingly, cities like New York and San Francisco are on the list. Additionally, so are Cambridge and Boston.
+Based on these whisker plots, you can see that San Francisco pays entry-level Data Scientists by far the highest, followed by Boston, New York, and Cambridge.
+
 
 Conclusion
 
+
+To summarize our data, we see that:
+1. Small and large companies pay more than medium sized company
+2. There is a positive correlation between high average salary and high job rating
+3. A lot of the top data science jobs are in California and San Francisco
+
+Our team also noticed that when we looked at the top 10 paying jobs, they seemed to reflect much of the analyses we made.
+
+
+Limitations
+
+
+Some limitations to our data were:
+
+1. Salary data is almost exclusively from Glassdoor
+2. We had limited knowledge in running statistical analysis
+3. We had limited amount of data for each state and city
+4. The dataset was last updated 2 months ago
