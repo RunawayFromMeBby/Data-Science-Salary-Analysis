@@ -43,8 +43,8 @@ Analysis #2: Job Satisfaction
 
 
 For job satisfaction analysis, we listed the top five highest and lowest companies ranked by their job satisfaction.
-4 of the top five highest-rated companies are located on the east coast and all 5 of them have a salary of over 100 thousand per year.
-4 of the 5 lowest rating companies have a salary under 100k per year and the one that has a salary over 100 thousand per year is located on the west coast while the other companies are around the midwest and the east coast.
+4 of the top five highest-rated companies are located on the east coast and the central area and all 5 of them have a salary of over 100 thousand per year.
+All of the lowest rating companies have a salary under 90k per year most of this companies are in the central area and one is on the west coast.
 The bar charts show how the companies are ranked from 1 to 5, 5 being the highest and 1 being the lowest. We found that the lowest rated companies didn’t reach a rating higher than 2.5.
 
 
