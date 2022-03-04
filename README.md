@@ -1,4 +1,5 @@
 Data Scientist Job Guide
+Link to our presentation: https://docs.google.com/presentation/d/1z3JK7XNI6e-DHzWn-S0Kh8yuyXbcSnIgdJJ5LVjKLf8/edit?usp=sharing
 
 The purpose of our project is to explore the wide range of salaries among entry-level data scientist roles and inform job seekers about the factors that could affect their salary.
 
@@ -20,22 +21,20 @@ Analysis #1: Company Size
 
 For our first analysis, we looked at how company size affects average salary
 
-We began by defining small, medium, and large companies in terms of number of employees.
+We began by defining small, medium, and large companies in terms of number of employees. We define small companies as having 1-200 employees, medium companies as having 201-1000 employees,and large companies as having 1001-10000+ employees
 We created a new ‘Size Category’ column in our dataframe and created a boxplot to get a more detailed data distribution comparison between the company sizes. The boxplot revealed that the data for medium sized companies contained a lot of outliers. 
 
 If we ignore the outliers and just look at the box and whiskers, the median average salaries for small/large company sizes are relatively the same, and medium sized companies have a slightly lower median average salary.
 
 Overall, this analysis might encourage someone looking for the highest salary possible to focus more on small and large sized companies since there is less variance in their data compared to medium sized companies.
 
-We filtered out the top 5 unique jobs with the highest average salary from each company size category.
-
-Please note that some companies might have multiple jobs with the same title within the same company which is why some of the tables seem like they have repeated positions.
+We filtered out the highest paying jobs with the highest average salary from each company size category and we printed enough jobs to cover 5 different companies since some companies have several jobs with the same titles.
 
 The highest paying job in the small company category is a Data Scientist position in the company TechProjects.
 
 The highest paying job in the medium company category is a Data Scientist -Sales position in the company Confluent. This is also the highest-paid job on our list overall.
 
-And finally, the highest paying job in the large company category is a Data Engineer position in the company Audible.
+The highest paying job in the large company category is a Data Engineer position in the company Audible.
 
 
 Analysis #2: Job Satisfaction
