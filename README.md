@@ -21,7 +21,8 @@ Analysis #1: Company Size
 
 For our first analysis, we looked at how company size affects average salary
 
-We began by defining small, medium, and large companies in terms of number of employees. We define small companies as having 1-200 employees, medium companies as having 201-1000 employees,and large companies as having 1001-10000+ employees
+We began by defining small, medium, and large companies in terms of number of employees. We define small companies as having 1-200 employees, medium companies as having 201-1000 employees,and large companies as having 1001-10000+ employees.
+
 We created a new ‘Size Category’ column in our dataframe and created a boxplot to get a more detailed data distribution comparison between the company sizes. The boxplot revealed that the data for medium sized companies contained a lot of outliers. 
 
 If we ignore the outliers and just look at the box and whiskers, the median average salaries for small/large company sizes are relatively the same, and medium sized companies have a slightly lower median average salary.
