@@ -54,12 +54,16 @@ Analysis #3: Job Sector
 We want to see what sectors these jobs are actually in. The bar chart shows the top 10 sectors in our data set. From this, we can see that about 24% of the jobs listed are in the IT sector, 17% are in business services and 11% are in healthcare. This makes up about 50% of all the job sectors we are looking at. 
 
 
-Analysis #4: Job Location
+Analysis #4: State
 
 
 Next, we want to explore if job location affects salary ranges. The box plot shows the average salary for data scientists jobs across the US. The US median is about 85K, but in our data there was 1 entry of 15.5K so that’s why one end of the box plot all the way to left but we kept that in because it met all of our criteria of being an entry level job.
 
 We want to compare the US median to specific states. These are the top 5 states with the most data entries in our data set, which were CA, MA, VA, NY and TX. This could indicate that there are more job opportunities here but it could just be because there are more people in these states and that’s why we have more data on these states. States with fewer data entries may not be a good representation of the average salaries for that state. We can see that all states besides Texas have a median salary higher than the US median.
+
+
+Analysis #5: City
+
 
 In addition to doing an analysis on the salaries for each state, we also did one on the salaries for the top 4 cities. Unfortunately, since our sample size is so limited, we did not go outside the top 4 cities.
 Unsurprisingly, cities like New York and San Francisco are on the list. Additionally, so are Cambridge and Boston.
