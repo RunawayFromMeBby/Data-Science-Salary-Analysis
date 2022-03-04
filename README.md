@@ -1,4 +1,5 @@
 Data Scientist Job Guide
+
 Link to our presentation: https://docs.google.com/presentation/d/1z3JK7XNI6e-DHzWn-S0Kh8yuyXbcSnIgdJJ5LVjKLf8/edit?usp=sharing
 
 The purpose of our project is to explore the wide range of salaries among entry-level data scientist roles and inform job seekers about the factors that could affect their salary.
