@@ -18,7 +18,7 @@ We obtained our Data Scientist Salary dataset from Kaggle and cleaned the datase
 
 
 Analysis #1: Company Size
-
+![](images/Screenshot_2022-06-23_110529.png)
 
 For our first analysis, we looked at how company size affects average salary
 
@@ -33,25 +33,31 @@ Overall, this analysis might encourage someone looking for the highest salary po
 We filtered out the highest paying jobs with the highest average salary from each company size category and we printed enough jobs to cover 5 different companies since some companies have several jobs with the same titles.
 
 The highest paying job in the small company category is a Data Scientist position in the company TechProjects.
-
+![](images/Screenshot_2022-06-23_110643.png)
 The highest paying job in the medium company category is a Data Scientist -Sales position in the company Confluent. This is also the highest-paid job on our list overall.
+![](images/Screenshot_2022-06-23_110709.png)
 
 The highest paying job in the large company category is a Data Engineer position in the company Audible.
-
+![](images/Screenshot_2022-06-23_110923.png)
 
 Analysis #2: Job Satisfaction
 
-
 For job satisfaction analysis, we listed the top five highest and lowest companies ranked by their job satisfaction.
 4 of the top five highest-rated companies are located on the east coast and the central area and all 5 of them have a salary of over 100 thousand per year.
+
+![](images/Screenshot_2022-06-23_110949.png)
+
 All of the lowest rating companies have a salary under 90k per year most of this companies are in the central area and one is on the west coast.
 The bar charts show how the companies are ranked from 1 to 5, 5 being the highest and 1 being the lowest. We found that the lowest rated companies didn’t reach a rating higher than 2.5.
 
+![](images/Screenshot_2022-06-23_111006.png)
 
 Analysis #3: Job Sector
 
 
 We want to see what sectors these jobs are actually in. The bar chart shows the top 10 sectors in our data set. From this, we can see that about 24% of the jobs listed are in the IT sector, 17% are in business services and 11% are in healthcare. This makes up about 50% of all the job sectors we are looking at. 
+
+![](images/Screenshot_2022-06-23_111135.png)
 
 
 Analysis #4: State
@@ -59,8 +65,11 @@ Analysis #4: State
 
 Next, we want to explore if job location affects salary ranges. The box plot shows the average salary for data scientists jobs across the US. The US median is about 85K, but in our data there was 1 entry of 15.5K so that’s why one end of the box plot all the way to left but we kept that in because it met all of our criteria of being an entry level job.
 
+![](images/Screenshot_2022-06-23_111156.png)
+
 We want to compare the US median to specific states. These are the top 5 states with the most data entries in our data set, which were CA, MA, VA, NY and TX. This could indicate that there are more job opportunities here but it could just be because there are more people in these states and that’s why we have more data on these states. States with fewer data entries may not be a good representation of the average salaries for that state. We can see that all states besides Texas have a median salary higher than the US median.
 
+![](images/Screenshot_2022-06-23_111235.png)
 
 Analysis #5: City
 
@@ -69,6 +78,7 @@ In addition to doing an analysis on the salaries for each state, we also did one
 Unsurprisingly, cities like New York and San Francisco are on the list. Additionally, so are Cambridge and Boston.
 Based on these whisker plots, you can see that San Francisco pays entry-level Data Scientists by far the highest, followed by Boston, New York, and Cambridge.
 
+![](images/Screenshot_2022-06-23_111322.png)
 
 Conclusion
 
@@ -87,6 +97,5 @@ Limitations
 Some limitations to our data were:
 
 1. Salary data is almost exclusively from Glassdoor
-2. We had limited knowledge in running statistical analysis
-3. We had limited amount of data for each state and city
-4. The dataset was last updated 2 months ago
+2. We had limited amount of data for each state and city
+3. The dataset was last updated 2 months ago
